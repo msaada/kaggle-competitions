@@ -8,7 +8,7 @@
 2. Install python dependecies
 
 ```
-pip install -r requirements.txt
+pip install -r setup/requirements.txt
 
 ```
 
